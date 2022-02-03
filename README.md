@@ -25,4 +25,6 @@ Serve the module on localhost and add it to an Edrys class, then use any editor 
 
 ## Deployment
 
-To use the module, you need to serve it from somewhere and paste its link into your Edrys class settings. One convenient place to serve it from is through [GitHub Pages](https://pages.github.com/). Alternatives includes Netlify, GitLab pages, or placing the module in the Edrys static directory.
+To use the module, you need to serve it from somewhere and paste its link into your Edrys class settings. One convenient solution is [GitHub Pages](https://pages.github.com/). Alternatives includes Netlify, GitLab pages, or placing the module in the Edrys static directory.
+
+When releasing a module on GitHub, you can tag it with `edrys` and `edrys-module` to make it easy for others to find.
