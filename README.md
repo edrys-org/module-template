@@ -2,7 +2,7 @@
 
 This is a basic bare-bones Edrys Module, it is a good staring point for creating your own modules.
 
-- Visit the [Edrys Modules documentation](https://github.com/edrys-org/edrys/wiki/2.-Modules) for more infromation
+- Visit the [Edrys Modules documentation](https://github.com/edrys-org/edrys/blob/main/docs/Modules.md) for more infromation
 - Click "Use this template" in the top right to get started
 
 
@@ -21,7 +21,7 @@ This combination results in lightweight, fast modules with very easy to read cod
 Serve the module on localhost and add it to an Edrys class, then use any editor to modify the module. We recommend:
 
 - [VS Code Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) which allows you to see your changes live as you make them
-- [VS Code Alpine.js Intellisense](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense) for highlighting Alpine.js code
+- [VS Code Alpine.js Intellisense](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense) if using Alpine.js
 
 ## Deployment
 
