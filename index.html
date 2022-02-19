@@ -5,13 +5,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  
+
     <meta name="description" content="An example module to create your own" />
     <meta name="show-in" content="*" />
     <title>Example Module</title>
-  
+
     <script src="https://edrys-org.github.io/edrys/module/edrys.js"></script>
- 
+
     <script defer src="https://edrys-org.github.io/edrys/module/vendor/alpine.min.js"></script>
     <link rel="stylesheet" href="https://edrys-org.github.io/edrys/module/vendor/water.min.css" />
     <link rel="stylesheet" href="https://edrys-org.github.io/edrys/module/vendor/open-iconic/css/open-iconic.min.css" />
@@ -43,12 +43,14 @@
                     <template x-for="message in messages">
                         <li>
                             <code x-text="message.from"></code>:
-                            <code x-text="message.subject"></code> - 
+                            <code x-text="message.subject"></code> -
                             <code x-text="message.body"></code>
                         </li>
                     </template>
                 </ul>
             </div>
+        </div>
     </template>
 </body>
+
 </html>
