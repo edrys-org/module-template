@@ -14,14 +14,14 @@ While Modules can be written in any combination of frontend technologies, we use
 - [Water.css](https://watercss.kognise.dev/) for styles (A tiny CSS reset with no classes)
 - [Open Iconic](https://useiconic.com/open) for icons
 
-This combination results in lightweight, fast modules with very easy to read code that is largely free of framework boilerplate, and requires no build step. You also don't need to spent any time learning these frameworks as they are very easy to pick up.
+This combination results in lightweight, fast modules with very easy to read code that is largely free of framework boilerplate, and requires no build step. You also don't need to spend any time learning these frameworks as they are very easy to pick up.
 
 ## Development
 
 Serve the module on localhost and add it to an Edrys class, then use any editor to modify the module. We recommend:
 
 - [VS Code Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) which allows you to see your changes live as you make them
-- [VS Code Alpine.js Intellisense](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense) if using Alpine.js
+- [VS Code Alpine.js Intellisense](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense)
 
 ## Deployment
 
